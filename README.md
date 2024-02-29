@@ -1,0 +1,2 @@
+# Hardware-Dependability
+Study Note
